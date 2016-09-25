@@ -1,0 +1,7 @@
+## Interface: 70000
+## Title: Grid2 |cd1ff7d0aDruidHarmony|r
+## Notes: Add a druid harmony status.
+## Author: Xariî
+## Version: 1.0
+## Dependencies: Grid2
+Grid2DruidHarmony.lua
